@@ -11,6 +11,3 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
-//abvdersdf sdf sdf
-//asd asd asd asd asd asd asd
-//你好  1 2 3

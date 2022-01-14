@@ -1,0 +1,17 @@
+Index: src/main/java/org/utm/App.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.utm;\r\n\r\n/**\r\n * Hello world!\r\n *\r\n */\r\npublic class App \r\n{\r\n    public static void main( String[] args )\r\n    {\r\n        System.out.println( \"Hello World!\" );\r\n    }\r\n}\r\n//abvdersdf sdf sdf\r\n//asd asd asd asd asd asd asd\r\n//你好  1 2 3
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/utm/App.java b/src/main/java/org/utm/App.java
+--- a/src/main/java/org/utm/App.java	(revision f0858a18e422383d6afaf21d189f37bd92776893)
++++ b/src/main/java/org/utm/App.java	(date 1642178670167)
+@@ -13,4 +13,4 @@
+ }
+ //abvdersdf sdf sdf
+ //asd asd asd asd asd asd asd
+-//你好  1 2 3
+\ No newline at end of file
++//你好  1 2 3
